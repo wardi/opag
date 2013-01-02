@@ -72,6 +72,10 @@ def right_menu(context):
         {
             'title': "Ian Ward's Homepage",
             'link': 'http://excess.org/'
+        },
+        {
+            'title': "Julython in January!",
+            'link': 'http://www.julython.org/location/'
         }
     ]
     return { 'quicklinks': quick_links,
