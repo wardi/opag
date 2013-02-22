@@ -1,0 +1,466 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.3.1 r9886"
+   inkscape:export-filename="/home/ian/Desktop/opag-black.png"
+   inkscape:export-xdpi="47.779999"
+   inkscape:export-ydpi="47.779999"
+   sodipodi:docname="opag.svg">
+  <defs
+     id="defs4">
+    <linearGradient
+       id="linearGradient3826">
+      <stop
+         style="stop-color:#ffde57;stop-opacity:1;"
+         offset="0"
+         id="stop3830" />
+      <stop
+         id="stop3832"
+         offset="1"
+         style="stop-color:#ffe873;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4689"
+       id="linearGradient1478"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.0284729,0,0,1.0384022,50.871484,152.15223)"
+       x1="26.648937"
+       y1="20.603781"
+       x2="135.66525"
+       y2="114.39767" />
+    <linearGradient
+       id="linearGradient4689">
+      <stop
+         style="stop-color:#5a9fd4;stop-opacity:1;"
+         offset="0"
+         id="stop4691" />
+      <stop
+         style="stop-color:#306998;stop-opacity:1;"
+         offset="1"
+         id="stop4693" />
+    </linearGradient>
+    <linearGradient
+       y2="114.39767"
+       x2="135.66525"
+       y1="38.819958"
+       x1="77.829239"
+       gradientTransform="matrix(1.8513433,0,0,1.8632409,109.32763,350.24704)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient3039"
+       xlink:href="#linearGradient4689"
+       inkscape:collect="always" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4671"
+       id="linearGradient1475"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.0284729,0,0,1.0384022,50.871484,152.15223)"
+       x1="150.96111"
+       y1="192.35176"
+       x2="112.03144"
+       y2="137.27299" />
+    <linearGradient
+       id="linearGradient4671">
+      <stop
+         style="stop-color:#ffd43b;stop-opacity:0;"
+         offset="0"
+         id="stop4673" />
+      <stop
+         id="stop3824"
+         offset="0.5"
+         style="stop-color:#ffde57;stop-opacity:1;" />
+      <stop
+         style="stop-color:#ffe873;stop-opacity:1"
+         offset="1"
+         id="stop4675" />
+    </linearGradient>
+    <linearGradient
+       y2="137.27299"
+       x2="112.03144"
+       y1="192.35176"
+       x1="150.96111"
+       gradientTransform="matrix(1.0284729,0,0,1.0384022,-77.402266,594.88956)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient3824"
+       xlink:href="#linearGradient4671"
+       inkscape:collect="always" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3826"
+       id="linearGradient3822"
+       x1="418.41153"
+       y1="589.19855"
+       x2="204.53209"
+       y2="461.82666"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.0373041,0,0,1,28.509404,0)" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.57889154"
+     inkscape:cx="1007.1596"
+     inkscape:cy="381.99989"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer5"
+     showgrid="false"
+     inkscape:window-width="2108"
+     inkscape:window-height="1185"
+     inkscape:window-x="378"
+     inkscape:window-y="91"
+     inkscape:window-maximized="0"
+     showguides="true"
+     inkscape:guide-bbox="true">
+    <sodipodi:guide
+       orientation="1,0"
+       position="125.5,669.99998"
+       id="guide3784" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="579.49998,614.49998"
+       id="guide3786" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="770.74637,405.87928"
+       id="guide3917" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer5"
+     inkscape:label="Wide-Black"
+     sodipodi:insensitive="true"
+     style="display:none">
+    <rect
+       style="fill:#000000;stroke:none;display:inline"
+       id="rect3032"
+       width="1883.5258"
+       height="460.54709"
+       x="46.869545"
+       y="269.94971"
+       inkscape:export-filename="/home/ian/Desktop/opag-wide-black.png"
+       inkscape:export-xdpi="23.450371"
+       inkscape:export-ydpi="23.450371" />
+    <text
+       xml:space="preserve"
+       style="font-size:163.90240479px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;display:inline;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Bold"
+       x="613.58447"
+       y="468.81577"
+       id="text3034"
+       sodipodi:linespacing="125%"
+       transform="scale(1.043511,0.95830328)"
+       inkscape:export-filename="/home/ian/Desktop/opag-wide-black.png"
+       inkscape:export-xdpi="23.450371"
+       inkscape:export-ydpi="23.450371"><tspan
+         sodipodi:role="line"
+         id="tspan3036"
+         x="613.58447"
+         y="468.81577" /><tspan
+         sodipodi:role="line"
+         x="613.58447"
+         y="673.69379"
+         id="tspan3038">Authors Group</tspan></text>
+    <text
+       inkscape:export-ydpi="23.450371"
+       inkscape:export-xdpi="23.450371"
+       inkscape:export-filename="/home/ian/Desktop/opag-wide-black.png"
+       transform="scale(1.0328954,0.96815224)"
+       sodipodi:linespacing="125%"
+       id="text3040"
+       y="479.4621"
+       x="614.81769"
+       style="font-size:162.23504639px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;display:inline;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Bold"
+       xml:space="preserve"><tspan
+         y="479.4621"
+         x="614.81769"
+         id="tspan3042"
+         sodipodi:role="line">Ottawa Python</tspan><tspan
+         id="tspan3044"
+         y="682.25592"
+         x="614.81769"
+         sodipodi:role="line" /></text>
+    <path
+       style="fill:url(#linearGradient3822);fill-opacity:1;stroke:none;display:inline"
+       d="m 125.57143,642.36218 453.71428,0 0,-86.42857 -7.23634,-14.84924 -26.87005,0 -7.77818,14.84924 -47.29142,0 0,-131.42857 -26.67354,-18.57143 0.60564,-52.87868 c 0,0 7.37547,-3.66199 19.39952,-2.12132 12.02405,1.54067 13.78613,6.58788 22.22794,7.85714 8.44181,1.26926 12.59584,0 12.59584,0 l -0.74094,-24.28571 c 0,0 -6.42812,2.91566 -17.78236,-0.71429 -11.35424,-3.62995 -17.77694,-6.7804 -27.41446,-7.14285 -9.63752,-0.36245 -19.26422,0.71428 -19.26422,0.71428 l -1.48186,78.57143 -25.69583,22.81407 -2.12132,124.32879 -137.41057,0 -8.15024,-14.28572 -10.03802,-0.0144 -11.0125,15.72865 -24.61663,0 0.74092,-26.42857 -7.44313,-0.71429 -4.41177,-27.85714 -5.79215,28.54989 -7.59068,0.57007 0.0461,25.88004 -19.53483,0 -6.66838,-15 -39.26937,0 -16.30049,25.71428 z"
+       id="path3060"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/ian/Desktop/opag-wide-black.png"
+       inkscape:export-xdpi="23.450371"
+       inkscape:export-ydpi="23.450371"
+       sodipodi:nodetypes="cccccccccczzcczzcccccccccccccccccccc" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Black"
+     style="display:none"
+     sodipodi:insensitive="true">
+    <rect
+       inkscape:export-ydpi="50.639999"
+       inkscape:export-xdpi="50.639999"
+       inkscape:export-filename="/home/ian/Desktop/opag-black.png"
+       y="278.435"
+       x="86.467522"
+       height="531.25775"
+       width="533.18201"
+       id="rect3832"
+       style="fill:#000000;stroke:none;display:inline" />
+    <text
+       inkscape:export-ydpi="50.639999"
+       inkscape:export-xdpi="50.639999"
+       inkscape:export-filename="/home/ian/Desktop/opag-black.png"
+       transform="scale(1.1931922,0.83808793)"
+       sodipodi:linespacing="125%"
+       id="text3835"
+       y="853.67578"
+       x="104.77444"
+       style="font-size:54.6344986px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;display:inline;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Bold"
+       xml:space="preserve"><tspan
+         y="853.67578"
+         x="104.77444"
+         id="tspan3837"
+         sodipodi:role="line" /><tspan
+         id="tspan3839"
+         y="921.96893"
+         x="104.77444"
+         sodipodi:role="line">Authors Group</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:54.13767624px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;display:inline;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Bold"
+       x="103.62679"
+       y="850.64215"
+       id="text3841"
+       sodipodi:linespacing="125%"
+       transform="scale(1.1823418,0.84577908)"
+       inkscape:export-filename="/home/ian/Desktop/opag-black.png"
+       inkscape:export-xdpi="50.639999"
+       inkscape:export-ydpi="50.639999"><tspan
+         sodipodi:role="line"
+         id="tspan3843"
+         x="103.62679"
+         y="850.64215">Ottawa Python</tspan><tspan
+         sodipodi:role="line"
+         x="103.62679"
+         y="918.31427"
+         id="tspan3845" /></text>
+    <path
+       sodipodi:nodetypes="cccccccccczzcczzcccccccccccccccccccc"
+       inkscape:export-ydpi="50.639999"
+       inkscape:export-xdpi="50.639999"
+       inkscape:export-filename="/home/ian/Desktop/opag-black.png"
+       inkscape:connector-curvature="0"
+       id="path3855"
+       d="m 125.57143,642.36218 453.71428,0 0,-86.42857 -7.23634,-14.84924 -26.87005,0 -7.77818,14.84924 -47.29142,0 0,-131.42857 -26.67354,-18.57143 0.60564,-52.87868 c 0,0 7.37547,-3.66199 19.39952,-2.12132 12.02405,1.54067 13.78613,6.58788 22.22794,7.85714 8.44181,1.26926 12.59584,0 12.59584,0 l -0.74094,-24.28571 c 0,0 -6.42812,2.91566 -17.78236,-0.71429 -11.35424,-3.62995 -17.77694,-6.7804 -27.41446,-7.14285 -9.63752,-0.36245 -19.26422,0.71428 -19.26422,0.71428 l -1.48186,78.57143 -25.69583,22.81407 -2.12132,124.32879 -137.41057,0 -8.15024,-14.28572 -10.03802,-0.0144 -11.0125,15.72865 -24.61663,0 0.74092,-26.42857 -7.44313,-0.71429 -4.41177,-27.85714 -5.79215,28.54989 -7.59068,0.57007 0.0461,25.88004 -19.53483,0 -6.66838,-15 -39.26937,0 -16.30049,25.71428 z"
+       style="fill:url(#linearGradient3822);fill-opacity:1;stroke:none;display:inline" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="Wide"
+     style="display:inline">
+    <rect
+       inkscape:export-ydpi="23.049219"
+       inkscape:export-xdpi="23.049219"
+       inkscape:export-filename="/home/ian/Desktop/opag-wide.png"
+       y="269.94971"
+       x="46.869545"
+       height="460.54709"
+       width="1883.5258"
+       id="rect3861"
+       style="fill:#ffffff;stroke:#000000;stroke-width:8;stroke-miterlimit:4;stroke-dasharray:none;display:inline" />
+    <text
+       inkscape:export-ydpi="23.049219"
+       inkscape:export-xdpi="23.049219"
+       inkscape:export-filename="/home/ian/Desktop/opag-wide.png"
+       transform="scale(1.043511,0.95830328)"
+       sodipodi:linespacing="125%"
+       id="text3882"
+       y="468.81577"
+       x="613.58447"
+       style="font-size:163.90240479px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Bold"
+       xml:space="preserve"><tspan
+         y="468.81577"
+         x="613.58447"
+         id="tspan3884"
+         sodipodi:role="line" /><tspan
+         id="tspan3886"
+         y="673.69379"
+         x="613.58447"
+         sodipodi:role="line">Authors Group</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:162.23504639px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Bold"
+       x="614.81769"
+       y="479.4621"
+       id="text3888"
+       sodipodi:linespacing="125%"
+       transform="scale(1.0328954,0.96815224)"
+       inkscape:export-filename="/home/ian/Desktop/opag-wide.png"
+       inkscape:export-xdpi="23.049219"
+       inkscape:export-ydpi="23.049219"><tspan
+         sodipodi:role="line"
+         id="tspan3890"
+         x="614.81769"
+         y="479.4621">Ottawa Python</tspan><tspan
+         sodipodi:role="line"
+         x="614.81769"
+         y="682.25592"
+         id="tspan3892" /></text>
+    <path
+       sodipodi:nodetypes="cccccccccczzcczzcccccccccccccccccccc"
+       inkscape:export-ydpi="23.049219"
+       inkscape:export-xdpi="23.049219"
+       inkscape:export-filename="/home/ian/Desktop/opag-wide.png"
+       inkscape:connector-curvature="0"
+       id="path3900"
+       d="m 125.57143,642.36218 453.71428,0 0,-86.42857 -7.23634,-14.84924 -26.87005,0 -7.77818,14.84924 -47.29142,0 0,-131.42857 -26.67354,-18.57143 0.60564,-52.87868 c 0,0 7.37547,-3.66199 19.39952,-2.12132 12.02405,1.54067 13.78613,6.58788 22.22794,7.85714 8.44181,1.26926 12.59584,0 12.59584,0 l -0.74094,-24.28571 c 0,0 -6.42812,2.91566 -17.78236,-0.71429 -11.35424,-3.62995 -17.77694,-6.7804 -27.41446,-7.14285 -9.63752,-0.36245 -19.26422,0.71428 -19.26422,0.71428 l -1.48186,78.57143 -25.69583,22.81407 -2.12132,124.32879 -137.41057,0 -8.15024,-14.28572 -10.03802,-0.0144 -11.0125,15.72865 -24.61663,0 0.74092,-26.42857 -7.44313,-0.71429 -4.41177,-27.85714 -5.79215,28.54989 -7.59068,0.57007 0.0461,25.88004 -19.53483,0 -6.66838,-15 -39.26937,0 -16.30049,25.71428 z"
+       style="fill:url(#linearGradient3822);fill-opacity:1;stroke:#000000;stroke-width:8;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="White"
+     style="display:none"
+     sodipodi:insensitive="true">
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:8;stroke-miterlimit:4;stroke-dasharray:none;display:inline"
+       id="rect3840"
+       width="533.18201"
+       height="531.25775"
+       x="86.467522"
+       y="278.435"
+       inkscape:export-filename="/home/ian/Desktop/opag.png"
+       inkscape:export-xdpi="49.889999"
+       inkscape:export-ydpi="49.889999" />
+    <text
+       xml:space="preserve"
+       style="font-size:55.14409256px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Bold"
+       x="100.47469"
+       y="861.63831"
+       id="text3834"
+       sodipodi:linespacing="125%"
+       transform="scale(1.2043215,0.83034307)"
+       inkscape:export-filename="/home/ian/Desktop/opag.png"
+       inkscape:export-xdpi="49.889999"
+       inkscape:export-ydpi="49.889999"><tspan
+         sodipodi:role="line"
+         id="tspan3836"
+         x="100.47469"
+         y="861.63831" /><tspan
+         sodipodi:role="line"
+         x="100.47469"
+         y="930.56842"
+         id="tspan3838">Authors Group</tspan></text>
+    <text
+       inkscape:export-ydpi="49.889999"
+       inkscape:export-xdpi="49.889999"
+       inkscape:export-filename="/home/ian/Desktop/opag.png"
+       transform="scale(1.19207,0.83887692)"
+       sodipodi:linespacing="125%"
+       id="text3776"
+       y="857.64111"
+       x="99.80069"
+       style="font-size:54.58311462px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Bold"
+       xml:space="preserve"><tspan
+         y="857.64111"
+         x="99.80069"
+         id="tspan3778"
+         sodipodi:role="line">Ottawa Python</tspan><tspan
+         id="tspan3780"
+         y="925.87"
+         x="99.80069"
+         sodipodi:role="line" /></text>
+    <path
+       style="fill:url(#linearGradient3822);fill-opacity:1;stroke:#000000;stroke-width:8;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+       d="m 125.57143,642.36218 453.71428,0 0,-86.42857 -7.23634,-14.84924 -26.87005,0 -7.77818,14.84924 -47.29142,0 0,-131.42857 -26.67354,-18.57143 0.60564,-52.87868 c 0,0 7.37547,-3.66199 19.39952,-2.12132 12.02405,1.54067 13.78613,6.58788 22.22794,7.85714 8.44181,1.26926 12.59584,0 12.59584,0 l -0.74094,-24.28571 c 0,0 -6.42812,2.91566 -17.78236,-0.71429 -11.35424,-3.62995 -17.77694,-6.7804 -27.41446,-7.14285 -9.63752,-0.36245 -19.26422,0.71428 -19.26422,0.71428 l -1.48186,78.57143 -25.69583,22.81407 -2.12132,124.32879 -137.41057,0 -8.15024,-14.28572 -10.03802,-0.0144 -11.0125,15.72865 -24.61663,0 0.74092,-26.42857 -7.44313,-0.71429 -4.41177,-27.85714 -5.79215,28.54989 -7.59068,0.57007 0.0461,25.88004 -19.53483,0 -6.66838,-15 -39.26937,0 -16.30049,25.71428 z"
+       id="path3017"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/ian/Desktop/opag.png"
+       inkscape:export-xdpi="49.889999"
+       inkscape:export-ydpi="49.889999"
+       sodipodi:nodetypes="cccccccccczzcczzcccccccccccccccccccc" />
+  </g>
+  <g
+     inkscape:label="Common"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="display:inline">
+    <path
+       style="fill:url(#linearGradient3039);fill-opacity:1;stroke:#000000;stroke-width:8;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 339.40372,388.63987 c -15.08494,0.0698 -29.49078,1.3523 -42.16639,3.58809 -37.34082,6.57579 -63.61845,21.77918 -63.61845,47.16184 0,0 0.71745,73.20789 18.67054,92.44773 17.9531,19.23984 84.73547,5.80966 84.73547,5.80966 l 0,8.34582 -88.24092,0 -33.11606,0 c -25.6453,0 -48.10102,5.28726 -55.12488,34.51676 -8.10194,33.5038 -0.51767,50.09164 7.22146,60.60046 12.0497,15.24265 18.36346,20.11999 44.0087,20.11999 0,0 36.92647,0.51347 59.47093,-3.59946 22.54447,-4.11292 47.00261,-22.15608 47.00261,-22.15608 0,0 -75.58797,14.51045 -73.62753,-9.7765 1.96042,-24.28694 17.63887,-23.3034 47.56309,-23.3034 l 88.13807,0 c 24.53451,0 49.90225,-21.55073 49.77733,-46.11125 l -0.60182,-118.3334 c -0.12123,-23.83716 -20.174,-41.74384 -44.12048,-45.72217 -15.15846,-2.51529 -30.88668,-3.65796 -45.97167,-3.58809 z"
+       id="path1948"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="scszcccsccszczsssscs"
+       inkscape:export-filename="/home/ian/Desktop/opag-wide.png"
+       inkscape:export-xdpi="23.049219"
+       inkscape:export-ydpi="23.049219" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:9.74267292;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path3002"
+       sodipodi:cx="312.5"
+       sodipodi:cy="461.29074"
+       sodipodi:rx="41.785713"
+       sodipodi:ry="38.214287"
+       d="m 354.28571,461.29074 a 41.785713,38.214287 0 1 1 -83.57142,0 41.785713,38.214287 0 1 1 83.57142,0 z"
+       transform="matrix(0.75612807,0,0,0.8917198,92.581802,50.72682)"
+       inkscape:export-filename="/home/ian/Desktop/opag-wide.png"
+       inkscape:export-xdpi="23.049219"
+       inkscape:export-ydpi="23.049219" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:8.36761856;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path3004"
+       sodipodi:cx="229.64285"
+       sodipodi:cy="457.71933"
+       sodipodi:rx="16.785715"
+       sodipodi:ry="29.642857"
+       d="m 246.42857,457.71933 a 16.785715,29.642857 0 1 1 -33.57143,0 16.785715,29.642857 0 1 1 33.57143,0 z"
+       transform="matrix(0.91547881,0,0,0.99845364,54.448822,7.6723453)"
+       inkscape:export-filename="/home/ian/Desktop/opag-wide.png"
+       inkscape:export-xdpi="23.049219"
+       inkscape:export-ydpi="23.049219" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:8.80962467;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="path3021"
+       sodipodi:cx="414.64285"
+       sodipodi:cy="444.14789"
+       sodipodi:rx="18.928572"
+       sodipodi:ry="18.928572"
+       d="m 433.57142,444.14789 a 18.928572,18.928572 0 1 1 -37.85714,0 18.928572,18.928572 0 1 1 37.85714,0 z"
+       transform="matrix(0.92523435,0,0,0.89127846,74.978325,48.288441)"
+       inkscape:export-filename="/home/ian/Desktop/opag-wide.png"
+       inkscape:export-xdpi="23.049219"
+       inkscape:export-ydpi="23.049219" />
+  </g>
+</svg>
